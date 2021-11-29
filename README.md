@@ -26,12 +26,12 @@ To train STIN on simulated dataset, generate training data by simulate.m and the
 ```
 python train_sim.py
 ```
-To train STIN adversarially on simulated dataset, generate source and target training data by simulate.m and then run:
+To train adversarial STIN by DANN on simulated dataset, generate source and target training data by simulate.m and then run:
 ```
 python train_sim_adver.py
 ```
 
-To train STIN adversarially on real-world dataset, run:
+To train adversarial STIN by DANN on real-world dataset, run:
 ```
 python train_real_adver.py
 ```
@@ -42,12 +42,12 @@ To test STIN on simulated dataset, run:
 ```
 python test_sim.py
 ```
-To test STIN adversarially on simulated dataset, run:
+To test adversarial STIN by DANN on simulated dataset, run:
 ```
 python test_sim_adver.py
 ```
 
-To test STIN adversarially on real-world dataset, run:
+To test adversarial STIN by DANN on real-world dataset, run:
 ```
 python test_real_adver.py
 ```
