@@ -22,9 +22,34 @@ Or just use the following code:
 
 ### Training
 
-To train STIN, run:
+To train STIN on simulated dataset, generate training data by simulate.m and then run:
 ```
-python main.py
+python train_sim.py
+```
+To train STIN adversarially on simulated dataset, generate source and target training data by simulate.m and then run:
+```
+python train_sim_adver.py
+```
+
+To train STIN adversarially on real-world dataset, run:
+```
+python train_real_adver.py
+```
+
+### Evaluating
+
+To test STIN on simulated dataset, run:
+```
+python test_sim.py
+```
+To test STIN adversarially on simulated dataset, run:
+```
+python test_sim_adver.py
+```
+
+To test STIN adversarially on real-world dataset, run:
+```
+python test_real_adver.py
 ```
 
 ## License
