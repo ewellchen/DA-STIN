@@ -50,7 +50,3 @@ python test_sim_adver.py
 
 ## License
 MIT License
-
-## Citation
-If you find our work useful in your research, please consider citing:
-```
