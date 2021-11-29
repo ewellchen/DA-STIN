@@ -35,6 +35,7 @@ To train adversarial STIN by DANN on real-world dataset, run:
 ```
 python train_real_adver.py
 ```
+The test results on real-world dataset is given in '.\result\real-world'
 
 ### Evaluating
 
@@ -45,11 +46,6 @@ python test_sim.py
 To test adversarial STIN by DANN on simulated dataset, run:
 ```
 python test_sim_adver.py
-```
-
-To test adversarial STIN by DANN on real-world dataset, run:
-```
-python test_real_adver.py
 ```
 
 ## License
