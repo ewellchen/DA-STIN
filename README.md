@@ -31,12 +31,6 @@ To train adversarial STIN by DANN on simulated dataset, generate source and targ
 python train_sim_adver.py
 ```
 
-To train adversarial STIN by DANN on real-world dataset, run:
-```
-python train_real_adver.py
-```
-The test results on real-world dataset is given in '.\result\real-world'
-
 ### Evaluating
 
 To test STIN on simulated dataset, run:
