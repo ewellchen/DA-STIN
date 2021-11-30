@@ -19,6 +19,8 @@ Or just use the following code:
 
 `pip install -r requirements.txt`
 
+### Data simulating
+Code is aviliable at https://www.computationalimaging.org/publications/single-photon-3d-imaging-with-deep-sensor-fusion
 
 ### Training
 
