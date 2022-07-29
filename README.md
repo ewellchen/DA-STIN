@@ -1,6 +1,6 @@
 # STIN
 
-This repository contains PyTorch implementation for STIN.
+This repository is for the paper: https://arxiv.org/abs/2201.02475
 
 
 **Abstract:**
