@@ -1,4 +1,4 @@
-# STIN
+# Deep Domain Adversarial Adaptation for Photon-efficient Imaging
 
 This repository is for the paper: https://arxiv.org/abs/2201.02475
 
