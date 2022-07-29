@@ -42,3 +42,13 @@ python test_sim_adver.py
 
 ## License
 MIT License
+
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@article{chen2022deep,
+  title={Deep Domain Adversarial Adaptation for Photon-efficient Imaging},
+  author={Chen, Yiwei and Yao, Gongxin and Liu, Yong and Pan, Yu},
+  journal={arXiv preprint arXiv:2201.02475},
+  year={2022}
+}
